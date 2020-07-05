@@ -3,6 +3,9 @@ import React from "react";
 import CollectionItem from "../collection-item/collection-item.component";
 
 import './collection-preview.styles.scss';
+import {selectCollections} from "../../redux/shop/shop.selector";
+import {createStructuredSelector} from "reselect";
+import connect from "react-redux/lib/connect/connect";
 const CollectionPreview = ({title, items}) => (
     <div className='collection-preview'>
         <h1 className='title'>{title.toUpperCase()}</h1>
@@ -16,6 +19,10 @@ const CollectionPreview = ({title, items}) => (
             }
         </div>
     </div>
-)
+);
 
-export default CollectionPreview;
+const mapStateToProps = createStructuredSelector({
+    collections: selectCollections
+})
+
+export default connect(mapStateToProps)(CollectionPreview);
