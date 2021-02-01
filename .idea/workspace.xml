@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52784d52-1956-4d5c-9c08-ab32f3df9808" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/pk.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.component .jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.component .jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/header.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.styles.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/checkout/checkout.styles.scss" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +15,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1apVwcPAjvlyTULV3F08xxOP0bi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -46,18 +44,6 @@
       <recent name="D:\koru\koru-practice1\crwn-clothing1\clothing-app\src\assets" />
       <recent name="D:\koru\koru-practice1\crwn-clothing1\clothing-app\src\pages\homepage" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -79,23 +65,51 @@
       <workItem from="1591633492158" duration="8816000" />
       <workItem from="1592405523630" duration="1917000" />
       <workItem from="1592773792442" duration="38497000" />
+      <workItem from="1595605256843" duration="6961000" />
+      <workItem from="1595643694250" duration="6881000" />
+      <workItem from="1595873618324" duration="372000" />
+      <workItem from="1596808383832" duration="803000" />
+      <workItem from="1597330255847" duration="823000" />
+      <workItem from="1598288224919" duration="289000" />
+      <workItem from="1598452871624" duration="4260000" />
+      <workItem from="1599167388085" duration="290000" />
+      <workItem from="1599496952560" duration="407000" />
+      <workItem from="1600791089535" duration="787000" />
+      <workItem from="1601424154497" duration="1105000" />
+      <workItem from="1603133124417" duration="5708000" />
+      <workItem from="1608531415336" duration="441000" />
+      <workItem from="1608595966900" duration="13840000" />
+      <workItem from="1611648073515" duration="601000" />
+      <workItem from="1611772740922" duration="419000" />
+      <workItem from="1611868231020" duration="271000" />
+      <workItem from="1611976520480" duration="1904000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="178" width="568" height="763" key="find.popup" timestamp="1611868125340">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="623" y="178" width="568" height="763" key="find.popup/-1080.-211.1080.1920/0.0.1792.1120/1792.0.1920.1080@0.0.1792.1120" timestamp="1611868125340" />
+    <state x="2459" y="172" width="586" height="735" key="find.popup/-1080.-211.1080.1920/0.0.1792.1120/1792.0.1920.1080@1792.0.1920.1080" timestamp="1611452861375" />
+    <state x="-1080" y="348" key="new project wizard" timestamp="1611868949628">
+      <screen x="-1080" y="-211" width="1080" height="1920" />
+    </state>
+    <state x="-1080" y="348" key="new project wizard/-1080.-211.1080.1920/0.0.1792.1120/1792.0.1920.1080@-1080.-211.1080.1920" timestamp="1611868949628" />
   </component>
 </project>
